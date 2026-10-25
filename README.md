@@ -29,7 +29,7 @@ Proyek ini dibuat sebagai bentuk implementasi materi pemrograman Java dan penera
 | No. | Nama Lengkap | NIM | Kelas |
 |:---:|---|---|:---:|
 | 1 | **Muhammad Attar Khanza Habibillah** | 2509116006 | A |
-| 2 | **Evan Setiwawa** | 2509116036 | A |
+| 2 | **Evan Setiawan** | 2509116036 | A |
 | 3 | **Az-Zahra Imsawati Sugianto** | 2509116062 | B |
 | 4 | **Arizky Saputra** | 2509116088 | C |
 
