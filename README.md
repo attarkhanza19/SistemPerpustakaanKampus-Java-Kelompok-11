@@ -24,7 +24,7 @@ Proyek ini dibuat sebagai bentuk implementasi materi pemrograman Java dan penera
 
 ---
 
-##  Anggota Kelompok 8
+##  Anggota Kelompok 11
 
 | No. | Nama Lengkap | NIM | Kelas |
 |:---:|---|---|:---:|
@@ -174,7 +174,7 @@ Method yang digunakan:
 Struktur proyek menggunakan format standar Maven pada Apache NetBeans.
 
 ```text
-PerpustakaanKampus-Java-Kelompok-8/
+PerpustakaanKampus-Java-Kelompok-11/
 │
 ├── README.md
 │
