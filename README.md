@@ -224,43 +224,50 @@ Program menampilkan enam pilihan menu utama yang dapat diakses oleh pengguna.
 Pilih menu (0-6):
 ```
 
-**[MASUKKAN GAMBAR 1: Screenshot tampilan menu utama program saat dijalankan di NetBeans.]**
+**<img width="447" height="237" alt="image" src="https://github.com/user-attachments/assets/32a2e879-e711-4729-b399-590543f570a0" />
+**
 
 ### 2. Tampilan Array 1 Dimensi
 
 Menampilkan daftar kategori buku beserta indeks masing-masing kategori.
 
-**[MASUKKAN GAMBAR 2: Screenshot hasil menjalankan Menu 1, Sub-menu 1, yaitu daftar kategori buku.]**
+**<img width="447" height="473" alt="image" src="https://github.com/user-attachments/assets/438533aa-d9bf-443e-b9d7-7f5042189b42" />
+**
 
 ### 3. Tampilan Array 2 Dimensi
 
 Menampilkan tabel jumlah peminjaman mingguan berdasarkan kategori buku dan hari.
 
-**[MASUKKAN GAMBAR 3: Screenshot hasil menjalankan Menu 2, Sub-menu 1, yaitu tabel peminjaman mingguan.]**
+**<img width="725" height="505" alt="image" src="https://github.com/user-attachments/assets/8aba064a-519e-4a7a-91aa-a421ebd65de0" />
+**
 
 ### 4. Tampilan Array 3 Dimensi
 
 Menampilkan lokasi penyimpanan buku berdasarkan lantai, rak, dan posisi.
 
-**[MASUKKAN GAMBAR 4: Screenshot hasil menjalankan Menu 3, Sub-menu 1, yaitu lokasi penyimpanan buku.]**
+**<img width="368" height="723" alt="image" src="https://github.com/user-attachments/assets/c16a864e-05ed-47e4-9b39-6447d1a1c8b6" />
+**
 
 ### 5. Tampilan ArrayList
 
 Menampilkan koleksi buku yang tersimpan dalam ArrayList.
 
-**[MASUKKAN GAMBAR 5: Screenshot hasil menjalankan Menu 4, Sub-menu 1, yaitu daftar koleksi buku.]**
+**<img width="447" height="497" alt="image" src="https://github.com/user-attachments/assets/28277a3f-c31b-41ae-9c32-4cee03e814c0" />
+**
 
 ### 6. Tampilan Stack (LIFO)
 
 Menampilkan riwayat transaksi peminjaman dari yang terbaru hingga terlama.
 
-**[MASUKKAN GAMBAR 6: Screenshot hasil menjalankan Menu 5, Sub-menu 2, yaitu riwayat transaksi.]**
+**<img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/033d4f83-03cf-42a4-a90f-8bbf83e02324" />
+**
 
 ### 7. Tampilan Queue (FIFO)
 
 Menampilkan antrean mahasiswa yang ingin melakukan peminjaman buku.
 
-**[MASUKKAN GAMBAR 7: Screenshot hasil menjalankan Menu 6, Sub-menu 2, yaitu daftar antrean mahasiswa.]**
+**<img width="446" height="455" alt="image" src="https://github.com/user-attachments/assets/23e748ff-a97f-4cd9-9ced-e32981b7b811" />
+**
 
 ---
 
