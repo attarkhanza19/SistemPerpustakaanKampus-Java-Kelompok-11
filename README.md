@@ -18,7 +18,7 @@ Proyek ini dibuat sebagai bentuk implementasi materi pemrograman Java dan penera
 | **Dosen Pengampu** | M. Ibadurrahman Arrasyid Supriyanto, M.Kom. |
 | **Program Studi** | Sistem Informasi |
 | **Angkatan** | 2025 |
-| **Kelompok** | 8 |
+| **Kelompok** | 11 |
 | **Bahasa Pemrograman** | Java |
 | **IDE** | Apache NetBeans |
 
